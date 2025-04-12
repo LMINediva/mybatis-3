@@ -66,3 +66,5 @@ our adjustments for GH actions where platform does matter
 - mac + jdk 23 = 1899 tests
 - mac + jdk 24 = 1899 tests
 - mac + jdk 25 = 1899 tests
+
+Note: This project is a fork project for reference and study.
